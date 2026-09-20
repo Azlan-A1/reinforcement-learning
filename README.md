@@ -19,3 +19,11 @@ Core principles to understand within RL:
 4. Exploration vs Exploitation  
 5. Value Function 
 
+
+To begin:
+
+-> Python is generally the main programming language that is used in the developing of RL systems and design 
+1. Generally used for its ability to allow the user to rapidly prototype utilize its strong ecosystem of machine learning tools and libraries 
+
+-> C++ can be used for optimizing systems while maintaining objectives such as max speed and low-latency performance
+1. Will be seen in products involving robotics and/or high-frequency systems 
