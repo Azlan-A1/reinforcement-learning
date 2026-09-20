@@ -9,3 +9,13 @@ Core elements that you need to understand with RL:
 3. State (s) -> The current condition of the environment 
 4. Action (a) -> The decision made by the agent 
 5. Reward (r) -> Feedback signal measuring the success or failiure of an action 
+
+
+Core principles to understand within RL: 
+
+1. Markov Decision Process (MDP)
+2. Policy (pi) 
+3. Cumulative Reward (Return)
+4. Exploration vs Exploitation  
+5. Value Function 
+
