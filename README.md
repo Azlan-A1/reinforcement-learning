@@ -27,3 +27,17 @@ To begin:
 
 -> C++ can be used for optimizing systems while maintaining objectives such as max speed and low-latency performance
 1. Will be seen in products involving robotics and/or high-frequency systems 
+
+-> Rust is noticeably more adopted in the context of RL when we are working on performance-critical systems and fast environment interfacing
+
+
+Core Frameworks
+1. 
+
+
+
+
+
+
+FAQ 
+
