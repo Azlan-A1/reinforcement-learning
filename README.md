@@ -41,3 +41,7 @@ Core Frameworks
 
 FAQ 
 
+1. What is the difference between Reinforcement learning and Supervised Learning? 
+
+
+
