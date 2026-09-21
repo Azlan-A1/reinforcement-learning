@@ -41,7 +41,13 @@ Core Frameworks
 
 FAQ 
 
-1. What is the difference between Reinforcement learning and Supervised Learning? 
+1. What is the difference between Reinforcement learning, Unsupervised Learning and Supervised Learning machine learning?
+
+Supervised learning allows you to define both the input and output layers such as when an algorithm is supposed to identify a hand as an image or not if you were to feed it a bunch of random images. 
+
+SL algorithms tend to learn patterns and relationships between inputs and outputs, then it is expected for the model predict an output based on the input data provided. The type of data that is fed into this algorithm is labeled data typically done by a human in a training set.
+
+On the other hand, RL has a defined end goal in achieving the highest award it possibly can through the sequence of actions. RL does not have a prior knowledge base or dataset to work with rather, the result is time-based instead of being a single prediction. It maps inputs with possible outcomes and by rewarding the desired behaviours, you provide more weight to the best outcomes. 
 
 
 
